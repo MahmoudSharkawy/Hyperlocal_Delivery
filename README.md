@@ -4,6 +4,7 @@ An enterprise-grade, full-stack open-source hyperlocal delivery tracking system.
 
 ## 📊 Live System Preview
 Here is a glimpse of the real-time dark-themed logistics control panel:
+![Logistics Operations Room Dashboard](./screenshots/001.png)
 
 ![Logistics Operations Room Dashboard](./screenshots/dashboard.png)
 
