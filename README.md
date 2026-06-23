@@ -1,4 +1,4 @@
-# 🚀 NEXUS-FLEET: Real-Time Hyperlocal Logistics Radar
+# 🚀 Real-Time Hyperlocal Logistics Radar
 
 An enterprise-grade, full-stack open-source hyperlocal delivery tracking system. This project architecture combines the complex relational business logic of **Laravel 13** with a high-frequency, real-time geospatial tracking microservice powered by **Node.js**, **Socket.io**, and **MongoDB**.
 
